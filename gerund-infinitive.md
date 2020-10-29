@@ -1,3 +1,5 @@
+**Needs correction**
+
 1a. cogebat
 1b. present active
 1c. imperfect active
@@ -12,7 +14,7 @@
 3c. occasio
 3d. dative, singular
 3e. genitive
-3f. ei
+3f. ei **Hyginus is not saying "to him of the kingdom". *ei* describes a different word in this sentence.**
 3g. regni
 
 4a. sunt factae
