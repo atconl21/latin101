@@ -1,3 +1,5 @@
+**Satisfactory:  full credit**
+
 necet
 necaret
 habeat
